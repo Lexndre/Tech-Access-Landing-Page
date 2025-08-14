@@ -1,24 +1,24 @@
 <div class="separator" id="contact-us"></div>
 <section class="section contact-us">
-        <div class="top-products-section">
-            <p class="text-intro">Contactez-nous via Email ou nos reseaux</p>
+        <div class="top-contact-section">
+            <p class="text-contact-intro">Contactez-nous via Email ou nos reseaux</p>
         </div>
         <row class="mid-contact-section">
             <div class="left-contact-content">
                 <form action="">
                     <div class="form-row">
-                        <label for="">Your name :</label>
-                        <input type="text">
+                        <label for="">Name</label>
+                        <input type="text" placeholder="Entrer votre nom">
                     </div>
                     <div class="form-row">
-                        <label for="">Your email :</label>
-                        <input type="email">
+                        <label for="">Email</label>
+                        <input type="email" placeholder="Entrer votre email">
                     </div>
                     <div class="form-row">
-                        <label for="">Your message :</label>
-                        <textarea name="" id="" cols="30" rows="10"></textarea>
+                        <label for="">Message</label>
+                        <textarea name="" id="" cols="30" rows="10" placeholder="Entrer votre message"></textarea>
                     </div>
-                    <div class="form-row">
+                    <div class="form-row button">
                         <button class="submit">Submit</button>
                     </div>
                 </form>
